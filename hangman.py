@@ -30,4 +30,4 @@ def Hangman(Word):
     if not Win:
         print("You lose the word was {}".format(Word))
 
-Hangman("cat"
+Hangman("cat")
